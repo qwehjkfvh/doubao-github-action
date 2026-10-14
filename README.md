@@ -1,56 +1,43 @@
-# 豆包 AI 代码审查（GitHub Actions）
+IyDosYbljIUgQUkg5Luj56CB5a6h5p+l77yIR2l0SHViIEFjdGlvbnPvvIkK
+Cuavj+asoeaPkOS6pOaIluabtOaWsCBQdWxsIFJlcXVlc3Qg5pe277yM6Ieq
+5Yqo6LCD55So6LGG5YyF77yI54Gr5bGx5pa56Iif77yJ5aSn5qih5Z6L5a6h
+5p+l5Luj56CB77yM5bm25ZyoIFBSIOS4i+ivhOiuuuOAggoKIyMg5LiA44CB
+6I635Y+W6LGG5YyFIEFQSSDlh63or4EKCjEuIOaJk+W8gCBb54Gr5bGx5pa5
+6Iif5o6n5Yi25Y+wXShodHRwczovL2NvbnNvbGUudm9sY2VuZ2luZS5jb20v
+YXJrKSDlubbms6jlhowv55m75b2V44CCCjIuIOOAjOW8gOmAmuacjeWKoeOA
+jeWQjui/m+WFpeOAjOWcqOe6v+aOqOeQhuOAjeKGkuOAjOaOqOeQhuaOpeWF
+peeCueOAje+8jOWIm+W7uuS4gOS4quaOqOeQhuaOpeWFpeeCue+8iOaooeWe
+i+mAiSBkb3ViYW8tc2VlZC0xLjYg5oiWIGRvdWJhby1wcm8g57O75YiX5Z2H
+5Y+v77yJ44CCCjMuIOWkjeWItuaOpeWFpeeCuSBJRO+8iOW9ouWmgiBgZXAt
+MjAyNXh4eHh4eHh4eHhg77yJ44CCCjQuIOOAjEFQSSBLZXkg566h55CG44CN
+5Lit5Yib5bu65LiA5LiqIEFQSSBLZXkg5bm25aSN5Yi244CCCgojIyDkuozj
+gIHphY3nva4gR2l0SHViIFNlY3JldHMKCuWcqOS9oOeahCBHaXRIdWIg5LuT
+5bqTIOKGkiAqKlNldHRpbmdzIOKGkiBTZWNyZXRzIGFuZCB2YXJpYWJsZXMg
+4oaSIEFjdGlvbnMg4oaSIE5ldyByZXBvc2l0b3J5IHNlY3JldCoq77yM5re7
+5Yqg5Lik5Liq77yaCgp8IFNlY3JldCDlkI0gfCDlgLwgfAp8LS0tfC0tLXwK
+fCBgQVJLX0FQSV9LRVlgIHwg5L2g55qE54Gr5bGx5pa56IifIEFQSSBLZXkg
+fAp8IGBBUktfTU9ERUxfSURgIHwg5o6o55CG5o6l5YWl54K5IElE77yIYGVw
+LXh4eHhg77yJIHwKCiMjIOS4ieOAgeaKiuaWh+S7tuaUvui/m+S7k+W6kwoK
+5L+d5oyB5Lul5LiL57uT5p6E77yaCgpgYGAKLmdpdGh1Yi93b3JrZmxvd3Mv
+ZG91YmFvLXByLXJldmlldy55bWwKc2NyaXB0cy9kb3ViYW9fcmV2aWV3LnB5
+CnNjcmlwdHMvcmVxdWlyZW1lbnRzLnR4dApgYGAKCuWmguaenOacrOWcsOi/
+mOayoeaciSBHaXRIdWIg5LuT5bqT77yaCgpgYGBiYXNoCmdpdCBpbml0Cmdp
+dCBhZGQgLgpnaXQgY29tbWl0IC1tICJhZGQgZG91YmFvIFBSIHJldmlldyBh
+Y3Rpb24iCmdoIHJlcG8gY3JlYXRlIDzkvaDnmoTku5PlupPlkI0+IC0tcHVi
+bGljIC0tc291cmNlPS4gLS1wdXNoCmBgYAoK5aaC5p6c5bey57uP5pyJ6L+c
+56iL5LuT5bqT77yM55u05o6l77yaCgpgYGBiYXNoCmdpdCBhZGQgLgpnaXQg
+Y29tbWl0IC1tICJhZGQgZG91YmFvIFBSIHJldmlldyBhY3Rpb24iCmdpdCBw
+dXNoCmBgYAoKIyMg5Zub44CB6aqM6K+BCgrmlrDlu7rkuIDkuKogUHVsbCBS
+ZXF1ZXN077yM5Yeg5Y2B56eS5ZCOIFBSIOmhtemdouS8muWHuueOsOOAjPCf
+pJYg6LGG5YyF5Luj56CB5a6h5p+l44CN6K+E6K6644CC5Y+v5Zyo5LuT5bqT
+ICoqQWN0aW9ucyoqIOmhteafpeeci+i/kOihjOaXpeW/l+OAggoKIyMg5bi4
+6KeB6Zeu6aKYCgotICoq6K+E6K665rKh5Ye6546wKirvvJrmo4Dmn6UgQWN0
+aW9uIOaYr+WQpuaKpee6ou+8jOmAmuW4uOaYr+S4pOS4qiBTZWNyZXQg5rKh
+6YWN5oiW5aGr6ZSZ77yb5o6l5YWl54K5IElEIOaYryBgZXAtYCDlvIDlpLTv
+vIzkuI3mmK/mqKHlnovlkI3lrZfjgIIKLSAqKmRpZmYg5aSq5aSnKirvvJro
+hJrmnKzlr7nljZXmrKEgZGlmZiDmiKrmlq3liLAgNjAwMDAg5a2X56ym77yM
+6YG/5YWN6LaFIHRva2Vu44CCCi0gKirmg7PmlLnlrqHmn6Xpo47moLwqKu+8
+mue8lui+kSBgc2NyaXB0cy9kb3ViYW9fcmV2aWV3LnB5YCDph4znmoQgcHJv
+bXB0IOWNs+WPr+OAggo=
 
-每次提交或更新 Pull Request 时，自动调用豆包（火山方舟）大模型审查代码，并在 PR 下评论。
-
-## 一、获取豆包 API 凭证
-
-1. 打开 [火山方舟控制台](https://console.volcengine.com/ark) 并注册/登录。
-2. 「开通服务」后进入「在线推理」→「推理接入点」，创建一个推理接入点（模型选 doubao-seed-1.6 或 doubao-pro 系列均可）。
-3. 复制接入点 ID（形如 `ep-2025xxxxxxxxxx`）。
-4. 「API Key 管理」中创建一个 API Key 并复制。
-
-## 二、配置 GitHub Secrets
-
-在你的 GitHub 仓库 → **Settings → Secrets and variables → Actions → New repository secret**，添加两个：
-
-| Secret 名 | 值 |
-|---|---|
-| `ARK_API_KEY` | 你的火山方舟 API Key |
-| `ARK_MODEL_ID` | 推理接入点 ID（`ep-xxxx`） |
-
-## 三、把文件放进仓库
-
-保持以下结构：
-
-```
-.github/workflows/doubao-pr-review.yml
-scripts/doubao_review.py
-scripts/requirements.txt
-```
-
-如果本地还没有 GitHub 仓库：
-
-```bash
-git init
-git add .
-git commit -m "add doubao PR review action"
-gh repo create <你的仓库名> --public --source=. --push
-```
-
-如果已经有远程仓库，直接：
-
-```bash
-git add .
-git commit -m "add doubao PR review action"
-git push
-```
-
-## 四、验证
-
-新建一个 Pull Request，几十秒后 PR 页面会出现「🤖 豆包代码审查」评论。可在仓库 **Actions** 页查看运行日志。
-
-## 常见问题
-
-- **评论没出现**：检查 Action 是否报红，通常是两个 Secret 没配或填错；接入点 ID 是 `ep-` 开头，不是模型名字。
-- **diff 太大**：脚本对单次 diff 截断到 60000 字符，避免超 token。
-- **想改审查风格**：编辑 `scripts/doubao_review.py` 里的 prompt 即可。
+<!-- test PR trigger for doubao review -->
